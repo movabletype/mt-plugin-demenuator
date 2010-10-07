@@ -1,7 +1,7 @@
 # Demenuator, a plugin for Movable Type
 
-Authors: Six Apart, Ltd.  
-Copyright: 2009 Six Apart, Ltd.  
+Authors: Six Apart
+Copyright: 2009 Six Apart Ltd.
 License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)
 
 
@@ -12,7 +12,7 @@ De-menu-ator removes specified menus and menu items from the MT UI.
 
 ## Requirements
 
-* MT4.x+
+* MT 4.x
 
 
 ## Features
@@ -20,7 +20,7 @@ De-menu-ator removes specified menus and menu items from the MT UI.
 * Ability to remove from the Movable Type UI:
     * menu items
     * full menus
-* Ability to do not remove menu items for users with the System Administrator privilege. 
+* Ability to do not remove menu items for users with the System Administrator privilege.
 
 
 ## Documentation
@@ -71,4 +71,4 @@ Should look like this when installed:
 
 ## Support
 
-This plugin is not an official Six Apart, Ltd. release, and as such support from Six Apart, Ltd. for this plugin is not available.
+This plugin is not an official Six Apart release, and as such support from Six Apart for this plugin is not available.
